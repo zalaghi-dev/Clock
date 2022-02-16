@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.1a8a0596.css",
-    "main.js": "/react-gh-pages/static/js/main.afe85011.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.1a8a0596.css.map": "/react-gh-pages/static/css/main.1a8a0596.css.map",
-    "main.afe85011.js.map": "/react-gh-pages/static/js/main.afe85011.js.map"
+    "main.css": "/Clock/static/css/main.1a8a0596.css",
+    "main.js": "/Clock/static/js/main.afe85011.js",
+    "index.html": "/Clock/index.html",
+    "main.1a8a0596.css.map": "/Clock/static/css/main.1a8a0596.css.map",
+    "main.afe85011.js.map": "/Clock/static/js/main.afe85011.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
