@@ -1,7 +1,7 @@
 {
   "name": "clock",
   "version": "0.1.0",
-  "homepage": "https://henryallen-dev.github.io/react-gh-pages",
+  "homepage": "https://henryallen-dev.github.io/Clock",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
