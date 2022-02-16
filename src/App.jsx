@@ -2,11 +2,11 @@ import React, { useEffect, useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { NumZero } from "./utils/NumZero";
 import { weekDay } from "./utils/weekDay";
-import { monthName } from './utils/monthName';
+import { monthName } from "./utils/monthName";
 function App() {
   const [Clock, setClock] = useState({ h: "00", m: "00", s: "00" });
-  const [appDate, setDate] = useState({ d: "10", m: "Febuary", y: "0000" });
-  const [week, setWeek] = useState("Sunday");
+  const [appDate, setDate] = useState({ d: "00", m: "Month", y: "0000" });
+  const [week, setWeek] = useState("WeekDay");
   useEffect(() => {
     setInterval(() => {
       let time = new Date();
